@@ -1,0 +1,14 @@
+body {
+    height: 100vh;
+    background-color: mediumpurple;
+    font-family: Arial, Helvetica, sans-serif;
+}
+table {
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+th, td{
+    font-size: 200%;
+}
